@@ -2,6 +2,11 @@
 
 TaskFlow is a production-ready, full-stack productivity web application designed to help users manage tasks efficiently. It features a secure workspace architecture, protected API routing, dynamic searching/sorting/filtering, real-time metrics, and a sleek, glassmorphic modern UI theme with responsive support.
 
+## 🔗 Live Deployments
+
+- **Frontend UI Web App**: [https://frontend-rho-opal-50.vercel.app](https://frontend-rho-opal-50.vercel.app)
+- **Backend Server API**: [https://backend-flax-eight-22.vercel.app](https://backend-flax-eight-22.vercel.app)
+
 ## 🚀 Key Features
 
 1. **Secure Authentication & Authorization**
